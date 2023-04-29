@@ -1,0 +1,12 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "My App",
+  "main": "index.js",
+  "scripts": {
+    "start": "python bot.py"
+  },
+  "dependencies": {
+    "python-telegram-bot": "^13.7.0"
+  }
+}
